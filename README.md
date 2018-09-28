@@ -6,7 +6,7 @@ Dataset-
 the link of the dataset is -http://archive.ics.uci.edu/ml/datasets/Twenty+Newsgroups
 
 Data preprocessing -
-In this part i cleaned all of the text files by removing the stop words , punctuations , digits and converted all the txt files in the list of small words .
+In this part i cleaned all of the text files by removing the stop words(an text file of stopwords is provided ), punctuations , digits and converted all the txt files in the list of small words .
 
 then about 2000 features are extracted from all the files and the slef implemented multinomial naive bayes algorithm is used.
 
